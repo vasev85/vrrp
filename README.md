@@ -53,7 +53,10 @@ virtual_ipaddress {
 ```
 
 *Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.*
-
+![alt text](https://github.com/vasev85/vrpp/blob/main/ex1.png?raw=true) 
+![alt text](https://github.com/vasev85/vrpp/blob/main/ex1_1.png?raw=true)
+![alt text](https://github.com/vasev85/vrpp/blob/main/ex1_2.png?raw=true) 
+![alt text](https://github.com/vasev85/vrpp/blob/main/ex1_3.png?raw=true) 
 ## Дополнительные задания (со звездочкой*)
 
 Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выполнить, если хотите глубже и/или шире разобраться в материале.
@@ -68,3 +71,5 @@ virtual_ipaddress {
 - найдите пакеты ICMP, в которых будет отображён процесс изменения MAC адреса одной ноды на другой. 
 
  *Пришлите скриншот до и после выключения интерфейса из Wireshark.*
+ ![alt text](https://github.com/vasev85/vrpp/blob/main/ex2.png?raw=true)
+ ![alt text](https://github.com/vasev85/vrpp/blob/main/ex2_1.png?raw=true) 
