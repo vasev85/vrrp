@@ -55,8 +55,8 @@ virtual_ipaddress {
 *Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.*
 ![alt text](https://github.com/vasev85/vrrp/blob/main/ex1.png?raw=true) 
 ![alt text](https://github.com/vasev85/vrrp/blob/main/ex1_1.png?raw=true)
-![alt text](https://github.com/vasev85/vrrp/blob/main/ex1_2.png?raw=true) 
-![alt text](https://github.com/vasev85/vrrp/blob/main/ex1_3.png?raw=true) 
+![alt text](https://github.com/vasev85/vrrp/blob/main/ex1_21.png?raw=true) 
+![alt text](https://github.com/vasev85/vrrp/blob/main/ex1_31.png?raw=true) 
 ## Дополнительные задания (со звездочкой*)
 
 Эти задания дополнительные (не обязательные к выполнению) и никак не повлияют на получение вами зачета по этому домашнему заданию. Вы можете их выполнить, если хотите глубже и/или шире разобраться в материале.
